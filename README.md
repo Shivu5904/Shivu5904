@@ -4,7 +4,7 @@
   
   ![Cloud Computing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Welcome+to+Cloud+Computing!;Learn+the+Fundamentals;Build+Your+Future+in+the+Cloud!)
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
   
   [![GitHub stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=github&logoColor=white&color=yellow)](https://github.com/username/repo/stargazers)
   [![GitHub forks](https://img.shields.io/github/forks/username/repo?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/username/repo/network)
